@@ -1,0 +1,10 @@
+.container-header{
+
+    display: flex;
+    border: 2px solid blueviolet;
+    border-radius: 15px;
+    height: 60px;
+    justify-content: space-around;
+    align-items: center;
+    
+}
