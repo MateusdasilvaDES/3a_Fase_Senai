@@ -1,0 +1,18 @@
+.container-demo2{
+
+
+   & .imagem_certificado{
+     height: 10%;
+     width: 10%;
+   }
+   & .icon_ps{
+    height: 10%;
+    width: 10%;
+   }
+
+   & .icon-github{
+     height: 10%;
+     width: 10%;
+     color: rgb(20, 7, 214);
+   }
+}
